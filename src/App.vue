@@ -1,6 +1,10 @@
-<script></script>
+<script setup>
+import SignupForm from "./components/SignupForm.vue";
+</script>
 
-<template></template>
+<template>
+  <SignupForm />
+</template>
 
 <style>
 @import "./assets/base.css";
