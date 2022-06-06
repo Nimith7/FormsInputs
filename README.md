@@ -1,29 +1,11 @@
 # FormsInputs
 
-This template should help get you started developing with Vue 3 in Vite.
+From The Net Ninja tutorial
 
-## Recommended IDE Setup
+Forms & input fields in Vue.js.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+v-model for 2-way data binding, keyboard events & how to react to form submissions.
 
-## Customize configuration
+## Demo
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+https://nimith7.github.io/FormsInputs/
